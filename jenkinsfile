@@ -1,23 +1,27 @@
 pipeline {
-    agent {
-        docker {
-            image 'node:18-alpine'
-            args '--user root -v /var/run/docker.sock:/var/run/docker.sock' // Mount Docker socket for Docker commands
-        }
-    }
+    agent any
     environment {
         IMAGE_NAME = 'swiggy-app'
     }
     stages {
-        stage('Checkout Code') {
+        stage('Checkout') {
             steps {
                 git 'https://github.com/RahmanMomin/my-app-swiggy.git'
             }
         }
-        stage('Build and Run Docker Image') {
+        stage('Install Dependencies') {
+            steps {
+                sh 'npm install'
+            }
+        }
+        stage('Build Docker Image') {
+            steps {
+                sh "docker build -t ${IMAGE_NAME} ."
+            }
+        }
+        stage('Run Docker Container') {
             steps {
                 sh """
-                docker build -t ${IMAGE_NAME} .
                 docker stop ${IMAGE_NAME} || true
                 docker rm ${IMAGE_NAME} || true
                 docker run -d --name ${IMAGE_NAME} -p 3000:3000 ${IMAGE_NAME}
