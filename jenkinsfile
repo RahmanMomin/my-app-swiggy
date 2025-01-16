@@ -4,11 +4,6 @@ pipeline {
         IMAGE_NAME = 'swiggy-app'
     }
     stages {
-        stage('Checkout') {
-            steps {
-                git 'https://github.com/RahmanMomin/my-app-swiggy.git'
-            }
-        }
         stage('Install Dependencies') {
             steps {
                 sh 'npm install'
