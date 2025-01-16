@@ -1,0 +1,97 @@
+[33m7c057a5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update jenkinsfile
+[33m24816b1[m Update jenkinsfile
+[33m04d50ec[m Update jenkinsfile
+[33med31afc[m Update jenkinsfile
+[33m532608a[m Update jenkinsfile
+[33m1cbc421[m Update jenkinsfile
+[33me0d3439[m Update jenkinsfile
+[33m84b8d77[m Create jenkinsfile
+[33m63b813e[m dockerfile
+[33m5fedf0e[m Merge pull request #1 from mraadig/patch-1
+[33m9f367ff[m Update constants.js
+[33m021d1bc[m Merge branch 'main' of https://github.com/g3vind/food-express
+[33m20789ae[m deployment changes
+[33m5aaa5dd[m Update README.md
+[33m72f53ca[m Update README.md
+[33m1ddd1e0[m testing:basic setup and first test case
+[33mc3114c1[m testing setup done
+[33mb3fc520[m fixes: ui design
+[33m380666c[m add to cart complete
+[33m7c45fcc[m cart bug resolved
+[33m1bd0263[m cart bug fixes part 1
+[33m6b0e65d[m add to cart and rtk added
+[33mbdb530d[m ui fix
+[33m7c4a692[m ui fix
+[33m506ca2b[m swiggy api change fixed
+[33m1737e05[m context api
+[33me5e9a6e[m sign in page
+[33mbaac4b1[m fixed accordion bug
+[33m19ebd99[m lifting state up of category menu
+[33mc4d777e[m round shimmer added
+[33m24f3608[m ui fix
+[33m499b783[m popular cuisines in search
+[33m58b5b82[m res menu items accordion
+[33mb0a3f2c[m code optimization
+[33mc8e99e0[m Merge branch 'main' of https://github.com/g3vind/food-express
+[33m17908f0[m ui fix
+[33mff63066[m Update README.md
+[33m5f69652[m part 7
+[33ma49533c[m part 6
+[33m986f5b0[m part 5
+[33mfc984e7[m part 4
+[33m48faa30[m part 4
+[33mc1472b5[m part 3
+[33mfc4e479[m deployment bug fix part 2
+[33m8149021[m bug fix for deployment
+[33mf49589d[m swiggy api and ui changes
+[33md30b437[m fix
+[33m7805e1c[m added a new tag on newly openend restaurants using higher order components
+[33m9d59841[m res menu ui fix
+[33m02e6d78[m discount bug fix
+[33m6a5a81d[m res menu ui fix partial
+[33m44b7439[m res-menu partial
+[33m95ba083[m bug fix
+[33m85f517b[m ui fix
+[33m5668e9b[m added search and cart ui
+[33md582ab9[m fixes
+[33m250ae18[m ui fix
+[33m58aaa70[m ui revamp
+[33m709f4bc[m help page
+[33mc0e9272[m fix
+[33m6d44246[m fix
+[33m228797f[m done for today
+[33me4bafd4[m random fix
+[33m11e39f5[m ui changes
+[33m79aa58c[m new footer
+[33m4ce2981[m lazy loading 🚀
+[33m3928974[m partial
+[33md37b808[m offline page revamp
+[33m5db7c7d[m discount coupons feature
+[33mf139c21[m custom hook for res menu
+[33mf31f9b7[m class component partial
+[33m4345278[m online/offline status feature
+[33mcf57d7d[m res menu ui
+[33mdd90750[m res menu api bug fix
+[33mbfae432[m res menu partial done
+[33m308ddd3[m vellore api fix
+[33mcacb472[m spinner bug fix
+[33m2259702[m spinner
+[33m44b378d[m shimmer revamp
+[33m702890f[m banner text from api
+[33m2b34ff5[m cart page
+[33m2b29bfd[m about page
+[33ma653947[m upgraded react router to v6
+[33mf5c1b12[m error page
+[33m3b4f491[m banner done
+[33ma8d3ba4[m home and contact ui done
+[33m3156d66[m ui change
+[33ma4c7d23[m search bug fix
+[33m405b950[m search bug fix
+[33mb440b64[m search feature done
+[33m16566ef[m shimmer ui done
+[33mf10321c[m swiggy api issue resolved
+[33m7b6e722[m Merge branch 'main' of https://github.com/g3vind/food-express
+[33maddaeeb[m minor fixes
+[33m4348b9b[m Update README.md
+[33ma0a6337[m ep 05 done
+[33m283d320[m mock data
